@@ -6,6 +6,9 @@ Here's a detailed description of a superstore retail business:
 
 Size and Layout: Superstores are characterized by their expansive size, often spanning tens of thousands of square feet or more. They are typically organized into various departments or sections, each dedicated to specific product categories such as groceries, electronics, apparel, household goods, and more. The layout is designed to guide customers through different sections seamlessly, with clear signage and aisles for easy navigation.
 
+![walmart](https://github.com/Tinku-Choudhary-1992/super_store_power-bi/assets/162289654/e92817bb-7ad8-4371-995a-ecf84d9a340b)
+
+
 Product Range: Superstores offer a diverse range of products catering to the needs of different customer segments. This includes groceries, fresh produce, dairy products, frozen foods, snacks, beverages, personal care items, cleaning supplies, clothing, electronics, furniture, home appliances, toys, and much more. The wide assortment of products ensures that customers can find almost everything they need in one place.
 
 Competitive Pricing: Superstores often leverage their large scale and purchasing power to offer competitive prices on a wide range of products. They may also run promotional offers, discounts, and loyalty programs to attract and retain customers.
